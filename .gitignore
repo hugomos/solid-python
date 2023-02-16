@@ -2,3 +2,4 @@ node_modules
 .pyc
 *.lock
 .env
+__pycache__
